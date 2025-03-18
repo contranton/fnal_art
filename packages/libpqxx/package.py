@@ -17,6 +17,7 @@ class Libpqxx(CMakePackage):
     # notify when the package is updated.
     # maintainers = ['marcmengel']
 
+    version("7.10.0", sha256="d280c6c9a6d063638b5bb0d2450bc15ed641c27c")
     version("7.6.0", sha256="8194ce4eff3fee5325963ccc28d3542cfaa54ba1400833d0df6948de3573c118")
     version("7.5.2", sha256="62e140667fb1bc9b61fa01cbf46f8ff73236eba6f3f7fbcf98108ce6bbc18dcd")
     version("7.5.1", sha256="16a3a4097a6772a9824ba584dbe5a1feee163ab954b94497358fe591eb236e3d")
